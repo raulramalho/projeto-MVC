@@ -1,0 +1,5 @@
+C:\Users\Raul.Raul-PC\source\repos\bancoapp\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\Raul.Raul-PC\source\repos\bancoapp\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\Raul.Raul-PC\source\repos\bancoapp\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\Raul.Raul-PC\source\repos\bancoapp\AppBancoDominio\obj\Debug\AppBancoDominio.pdb
+C:\Users\Raul.Raul-PC\source\repos\bancoapp\AppBancoDominio\obj\Debug\AppBancoDominio.csprojAssemblyReference.cache
